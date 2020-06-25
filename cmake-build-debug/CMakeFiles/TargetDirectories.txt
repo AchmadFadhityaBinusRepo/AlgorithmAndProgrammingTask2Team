@@ -1,0 +1,3 @@
+C:/Users/Krisna Dhipa/Documents/GitHub/TK2/cmake-build-debug/CMakeFiles/TK2.dir
+C:/Users/Krisna Dhipa/Documents/GitHub/TK2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Krisna Dhipa/Documents/GitHub/TK2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
